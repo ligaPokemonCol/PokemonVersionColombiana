@@ -1,0 +1,32 @@
+Para hacer copias de seguridad y enviar branchs al Git de Liga Pokemon Colombia
+
+- instala Git en tu PC
+
+- dentro de la carpeta dale click derecho y GIT BASH HERE
+- clonar el repositorio a tu PC
+$ git pull https://github.com/ligaPokemonCol/PokemonVersionColombiana.git
+
+
+Para subir los cambios
+
+
+$ git add -A
+    (para agregar todos los archivos)
+
+$ git add ejemplo.txt
+    (o tambien solo sol archivos que cambio) 
+
+$ git status
+    (Verificamos que todo eso queremos subir)
+
+
+$ git commit -m "mensaje de exoplicando el cambio"
+
+$ git push origin master
+
+
+
+(Luego vamos a la web de GIT y damos click en Pull request)
+
+
+
