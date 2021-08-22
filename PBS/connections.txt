@@ -1,0 +1,54 @@
+# Ruta 5 (41) - Ruta 4 (40)
+41,North,0,40,South,0
+# Ruta 5 (41) - Ruta 6 (45)
+41,South,6,45,North,0
+# Ciudad Milanesa (7) - Ruta 6 (44)
+7,West,5,44,East,0
+# Monte Plateado (35) - Ruta 4 (39)
+35,West,11,39,East,0
+# Ciudad Milanesa (7) - Pueblo Lomito (23)
+7,East,0,23,West,78
+# Ruta 3 (31) - Pueblo Lomito (23)
+31,South,32,23,North,0
+# Ruta 2 (21) - Pueblo Lomito (23)
+21,East,0,23,West,1
+# Ruta 7 (47) - Ciudad Milanesa (7)
+47,West,0,7,East,0
+# Ruta 2 (21) - Ciudad Milanesa (7)
+21,South,0,7,North,21
+# Ruta 3 (31) - Monte Plateado (35)
+31,West,0,35,East,10
+# Ruta 7 (47) - Frente de Batalla (52)
+47,East,8,52,West,0
+# Ruta 2 (21) - Ruta 7 (47)
+21,East,77,47,West,0
+# Entrada cueva (80) - Pueblito Independencia (77)
+80,East,0,77,West,14
+# Liga Pokemon Colombia (48) - Pueblito Independencia (77)
+48,West,0,77,East,10
+# Dorado City (43) - Pueblito Independencia (77)
+43,North,0,77,South,1
+# Pueblito Independencia (77) - Panaca Safari (66)
+77,16,413,66,0,0
+# Pueblo Cafetal (2) - Ruta Cafetera (22)
+2,West,0,22,East,4
+# Ruta Musical (42) - Ruta Cafetera (22)
+42,West,89,22,East,0
+# Desierto de la Ratatacoa (32) - Ruta Cafetera (22)
+32,West,69,22,East,0
+# Dorado City (43) - Ruta Cafetera (22)
+43,West,159,22,East,0
+# Desierto de la Ratatacoa (32) - Pueblo Cafetal (2)
+32,South,0,2,North,0
+# Pueblito Independencia (77) - Ruta 8 (69)
+77,0,405,69,40,0
+# Desierto de la Ratatacoa (32) - Ruta Musical (42)
+32,North,0,42,South,0
+# Dorado City (43) - Ruta Musical (42)
+43,South,0,42,North,0
+# Dorado City (43) - Liga Pokemon Colombia (48)
+43,North,30,48,South,0
+# Rio Magdalena (79) - La linea (78)
+79,South,0,78,North,2
+# Ciudad Caribe (87) - Rio Magdalena (79)
+87,East,23,79,West,0
